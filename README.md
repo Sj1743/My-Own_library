@@ -1,1 +1,2 @@
-# My-Own_library
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
